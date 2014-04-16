@@ -7,7 +7,7 @@ library(twitteR)
 #ftp://cran.r-project.org/pub/R/web/packages/twitteR/twitteR.pdf
 
 # Reload the authorisation
-load("C:\\Users\\Eu\\Dropbox\\R GIT project\\doc\\Twitter Auth Credentials.Rdata")
+load("\\Twitter Auth Credentials.Rdata")
 
 # get authorisation
 registerTwitterOAuth(cred)
